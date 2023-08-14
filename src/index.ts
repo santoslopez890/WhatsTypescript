@@ -1,5 +1,6 @@
 // Import stylesheets
 import './style.css';
+import fs from 'fs';
 
 
 const form: HTMLFormElement = document.querySelector('#defineform');

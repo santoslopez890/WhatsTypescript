@@ -1,0 +1,13 @@
+{
+  "name": "whatstypescript",
+  "version": "1.0.0",
+  "description": "what is typescript?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build":"tsc" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
